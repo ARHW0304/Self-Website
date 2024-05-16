@@ -1,7 +1,7 @@
 const target = document.getElementById('target');
 let yes= document.getElementById('yes');
 yes.addEventListener('click',() => {
-    alert("I am Ayush");
+    alert('Hmm mjhe pta tha baby😘😘 tum YES hi press krogi accha haso mat😁😁 ab chalo ready ho jaao ab fingring hogi -Your Hubby- Mr. Ayush Yadav 😘😘');
 })
 function movetarget(){
     const maxWidth = 400;
